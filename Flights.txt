@@ -1,0 +1,6 @@
+5
+1 Volgo1 Volgograd Moscow Boieng1 1000 5 500
+2 Volgo2 Moscow Saint-Peterburg Boieng2 600 5 500
+3 Volgo3 Moscow Volgograd Airbus1 1000 6 500
+4 Volgo4 Moscow London Boieng3 2000 9 800
+5 Volgo5 Volgograd Moscow Airbus2 1100 5 500
